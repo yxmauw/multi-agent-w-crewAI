@@ -44,10 +44,20 @@ Follows the framework, define the following attributes to optimise performance:
 1. Clear description of the task
 2. Set a clear and concise expectation
 3. Set context
-4. Set a callback
-5. Override Agent tools with specific task tools
-6. Force human input before end of task
-7. Execute asynchronously
-8. Output as Pydantic / JSON / file
-9. Run in parallel
+
+### Build a Crew to Tailor Job Applications (Lesson 7)
+Goal: Maximise chances of getting an interview for a given job posting
+Process: 
+* Learn about the job requirements
+* Cross that with your skill set and experiences
+* Reshape resumé to highlight relevant areas
+* Rewrite resumé with appropriate language
+* Set talking points for your initial interview
+
+5. Set a callback
+6. Override Agent tools with specific task tools
+7. Force human input before end of task
+8. Execute asynchronously
+9. Output as Pydantic / JSON / file
+10. Run in parallel
 
