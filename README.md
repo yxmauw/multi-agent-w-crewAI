@@ -33,3 +33,9 @@ Follows the framework, define the following attributes to optimise performance:
   * narrowly defined task
   * specific agent roles and objectives
   * limited set of tools assigned to one agent
+
+### Customer outreach campaign
+* Need tools that have the following attributes:
+  1. Fault-tolerant (fail gracefully, not stop execution, send error message back to agent to retry)
+  2. Versatile (handle different types of inputs)
+  3. Caching (smart caching, cross-agent caching, prevent unnecessary caching, stay within rate limits, shorter execution times)
