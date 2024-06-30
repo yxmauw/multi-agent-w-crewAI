@@ -19,3 +19,17 @@
 Follows the framework, define the following attributes to optimise performance:
 1. Role playing, Focus, Cooperation
 2. Tools, guardrails, Memory
+
+### Mental framework for agent creation
+* Think as a manager
+* Thank about what is the goal and what is the process
+* What kind of people I would hire to get the job done?
+* Use keywords to be specific about the essential qualifications
+##### Specific to CrewAI
+* Agents 'self improve" using memory
+* Guardrails prevent agents from going into "rabbit holes" (unproductive, repetitive loops)
+* Agents always attempt to get to an answer (avoid iterating indefinitely)
+* Focus
+  * narrowly defined task
+  * specific agent roles and objectives
+  * limited set of tools assigned to one agent
