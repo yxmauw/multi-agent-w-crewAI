@@ -39,3 +39,15 @@ Follows the framework, define the following attributes to optimise performance:
   1. Fault-tolerant (fail gracefully, not stop execution, send error message back to agent to retry)
   2. Versatile (handle different types of inputs)
   3. Caching (smart caching, cross-agent caching, prevent unnecessary caching, stay within rate limits, shorter execution times)
+ 
+### Key elements of well-defined tasks
+1. Clear description of the task
+2. Set a clear and concise expectation
+3. Set context
+4. Set a callback
+5. Override Agent tools with specific task tools
+6. Force human input before end of task
+7. Execute asynchronously
+8. Output as Pydantic / JSON / file
+9. Run in parallel
+
