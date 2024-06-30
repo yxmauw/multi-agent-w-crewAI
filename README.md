@@ -1,7 +1,7 @@
 # Coursera course
 [Multi AI Agent Systems with crewAI by DeepLearning.AI](https://www.coursera.org/projects/multi-ai-agent-systems-with-crewai)
 
-### Resume and job seeking
+### Resumé and job seeking
 ##### 4 Agents
 1. Tech job researcher
 2. Personal profiler for engineers
